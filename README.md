@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeonn/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/oisin-aeonn)
 
+![Profile Views](https://komarev.com/ghpvc/?username=des1-gner&label=Profile%20Views&color=8957e5&style=flat)
+
 ---
 
 ## About
@@ -112,7 +114,7 @@ When I'm not building, you'll usually find me with my dogs, tinkering with bikes
 
 My public GitHub contribution activity, in 3D (auto-updated daily). Note: this reflects public activity only and does not include internal/enterprise commits, code reviews, or private work.
 
-![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+![3D contribution graph](./profile-3d-contrib/profile-customize.svg)
 
 ---
 
