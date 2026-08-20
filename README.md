@@ -1,5 +1,5 @@
-# Oisin Aeonn
-### AI/ML Cloud Engineer @ AWS  ·  Bedrock, SageMaker & AgentCore  ·  Melbourne, Australia
+<img src="./assets/banner.svg" width="100%" alt="Oisin Aeonn - AI/ML Cloud Engineer at AWS (Bedrock, SageMaker, AgentCore), Melbourne" />
+
 #### (Pronounced "Ocean")
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeonn/)
@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=des1-gner&label=Profile%20Views&color=8957e5&style=flat)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## About
 
@@ -21,7 +21,7 @@ I'm an AI/ML Cloud Engineer at AWS, working across Bedrock, SageMaker, and Bedro
 - **WorldSkills:** represented Australia in Cloud Computing at Lyon 2024 (15th internationally); now an assistant trainer with WorldSkills Australia
 - **Lifelong learner**, currently focused on: AI planning for autonomy, agentic AI systems, multi-agent orchestration, and advanced AgentCore development
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 
 ## Tech Stack
@@ -87,7 +87,7 @@ I'm an AI/ML Cloud Engineer at AWS, working across Bedrock, SageMaker, and Bedro
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Areas of Interest
 
@@ -96,19 +96,19 @@ I'm an AI/ML Cloud Engineer at AWS, working across Bedrock, SageMaker, and Bedro
 - **Agentic AI:** AgentCore, Bedrock Agents, MCP, A2A, and the frameworks it supports (Strands, LangGraph, LangChain, CrewAI, LlamaIndex)
 - **Foundations:** algorithms, distributed systems, discrete mathematics, graph theory
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Beyond the Tech
 
 When I'm not building, you'll usually find me with my dogs, tinkering with bikes and cars, reading about maths or astronomy, picking up bits of new languages, or volunteering.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Current Side Project
 
 **LookGlass** ([lookglass.net](https://lookglass.net/)): building at the intersection of cloud and AI.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Dashboard
 
@@ -116,13 +116,13 @@ My public GitHub contribution activity, in 3D (auto-updated daily). Note: this r
 
 ![3D contribution graph](./profile-3d-contrib/profile-customize.svg)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Philosophy
 
 > "The future remembers those who build it, and those who didn't."
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Get in Touch
 
