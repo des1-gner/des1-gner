@@ -21,11 +21,6 @@ I'm an AI/ML Cloud Engineer at AWS, working across Bedrock, SageMaker, and Bedro
 
 ---
 
-## Focus Areas
-
-<img src="https://quickchart.io/chart/render/zf-4948a78c-3de5-4a19-80ab-2de4f314a3e7" width="480" alt="Skills radar chart" />
-
----
 
 ## Tech Stack
 
@@ -115,7 +110,7 @@ When I'm not building, you'll usually find me with my dogs, tinkering with bikes
 
 ## Dashboard
 
-My GitHub contribution activity, in 3D (auto-updated daily):
+My public GitHub contribution activity, in 3D (auto-updated daily). Note: this reflects public activity only and does not include internal/enterprise commits, code reviews, or private work.
 
 ![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
 
