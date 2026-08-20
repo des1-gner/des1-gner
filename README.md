@@ -117,7 +117,7 @@ When I'm not building, you'll usually find me with my dogs, tinkering with bikes
 
 My GitHub contribution activity, in 3D (auto-updated daily):
 
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
