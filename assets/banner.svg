@@ -1,0 +1,86 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oisin Aeonn banner">
+<defs>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.55"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="260" fill="#0d1117"/>
+<g filter="url(#soft)" opacity="0.95">
+<ellipse cx="623" cy="47" rx="161" ry="129" fill="#160a2e" transform="rotate(18 623 47)"/>
+<ellipse cx="1057" cy="18" rx="153" ry="120" fill="#160a2e" transform="rotate(129 1057 18)"/>
+<ellipse cx="399" cy="-11" rx="82" ry="101" fill="#3b2f63" transform="rotate(17 399 -11)"/>
+<ellipse cx="452" cy="16" rx="168" ry="53" fill="#8957e5" transform="rotate(144 452 16)"/>
+<ellipse cx="213" cy="84" rx="75" ry="119" fill="#5a32a3" transform="rotate(101 213 84)"/>
+<ellipse cx="61" cy="83" rx="71" ry="117" fill="#8957e5" transform="rotate(34 61 83)"/>
+<ellipse cx="553" cy="184" rx="96" ry="115" fill="#160a2e" transform="rotate(146 553 184)"/>
+<ellipse cx="591" cy="256" rx="106" ry="59" fill="#5a32a3" transform="rotate(146 591 256)"/>
+<ellipse cx="344" cy="160" rx="84" ry="116" fill="#6e40c9" transform="rotate(16 344 160)"/>
+<ellipse cx="1115" cy="0" rx="112" ry="109" fill="#6e40c9" transform="rotate(136 1115 0)"/>
+<ellipse cx="835" cy="130" rx="179" ry="120" fill="#3b2f63" transform="rotate(92 835 130)"/>
+<ellipse cx="573" cy="97" rx="106" ry="135" fill="#8957e5" transform="rotate(62 573 97)"/>
+<ellipse cx="127" cy="264" rx="136" ry="113" fill="#3b2f63" transform="rotate(87 127 264)"/>
+<ellipse cx="879" cy="117" rx="78" ry="61" fill="#5a32a3" transform="rotate(107 879 117)"/>
+<ellipse cx="297" cy="145" rx="98" ry="108" fill="#3b2f63" transform="rotate(10 297 145)"/>
+<ellipse cx="118" cy="255" rx="140" ry="89" fill="#6e40c9" transform="rotate(89 118 255)"/>
+<ellipse cx="1177" cy="224" rx="176" ry="54" fill="#8957e5" transform="rotate(23 1177 224)"/>
+<ellipse cx="512" cy="212" rx="76" ry="53" fill="#6e40c9" transform="rotate(179 512 212)"/>
+<ellipse cx="594" cy="265" rx="174" ry="82" fill="#6e40c9" transform="rotate(98 594 265)"/>
+<ellipse cx="670" cy="-19" rx="178" ry="91" fill="#21134a" transform="rotate(156 670 -19)"/>
+<ellipse cx="199" cy="222" rx="75" ry="73" fill="#8957e5" transform="rotate(73 199 222)"/>
+<ellipse cx="224" cy="96" rx="161" ry="96" fill="#8957e5" transform="rotate(127 224 96)"/>
+<ellipse cx="125" cy="55" rx="174" ry="97" fill="#5a32a3" transform="rotate(71 125 55)"/>
+<ellipse cx="240" cy="190" rx="131" ry="136" fill="#3b2f63" transform="rotate(91 240 190)"/>
+<ellipse cx="739" cy="88" rx="98" ry="56" fill="#21134a" transform="rotate(38 739 88)"/>
+<ellipse cx="435" cy="89" rx="63" ry="108" fill="#8957e5" transform="rotate(150 435 89)"/>
+<ellipse cx="333" cy="104" rx="132" ry="46" fill="#21134a" transform="rotate(107 333 104)"/>
+<ellipse cx="1054" cy="159" rx="141" ry="62" fill="#6e40c9" transform="rotate(131 1054 159)"/>
+<ellipse cx="1224" cy="-3" rx="176" ry="133" fill="#8957e5" transform="rotate(143 1224 -3)"/>
+<ellipse cx="763" cy="173" rx="162" ry="96" fill="#160a2e" transform="rotate(123 763 173)"/>
+<ellipse cx="780" cy="1" rx="108" ry="54" fill="#21134a" transform="rotate(112 780 1)"/>
+<ellipse cx="292" cy="26" rx="147" ry="122" fill="#160a2e" transform="rotate(26 292 26)"/>
+<ellipse cx="-40" cy="260" rx="98" ry="114" fill="#160a2e" transform="rotate(93 -40 260)"/>
+<ellipse cx="1216" cy="-17" rx="78" ry="72" fill="#5a32a3" transform="rotate(96 1216 -17)"/>
+<ellipse cx="264" cy="99" rx="148" ry="123" fill="#2f1d63" transform="rotate(121 264 99)"/>
+<ellipse cx="211" cy="29" rx="184" ry="105" fill="#3b2f63" transform="rotate(123 211 29)"/>
+<ellipse cx="598" cy="13" rx="96" ry="59" fill="#6e40c9" transform="rotate(87 598 13)"/>
+<ellipse cx="502" cy="215" rx="101" ry="112" fill="#160a2e" transform="rotate(52 502 215)"/>
+<ellipse cx="1041" cy="155" rx="97" ry="134" fill="#5a32a3" transform="rotate(6 1041 155)"/>
+<ellipse cx="1041" cy="122" rx="83" ry="135" fill="#8957e5" transform="rotate(66 1041 122)"/>
+<ellipse cx="1021" cy="157" rx="102" ry="91" fill="#8957e5" transform="rotate(57 1021 157)"/>
+<ellipse cx="1050" cy="247" rx="188" ry="88" fill="#6e40c9" transform="rotate(57 1050 247)"/>
+<ellipse cx="1215" cy="69" rx="121" ry="97" fill="#6e40c9" transform="rotate(58 1215 69)"/>
+<ellipse cx="369" cy="235" rx="186" ry="91" fill="#6e40c9" transform="rotate(7 369 235)"/>
+<ellipse cx="17" cy="113" rx="180" ry="79" fill="#21134a" transform="rotate(177 17 113)"/>
+<ellipse cx="1199" cy="146" rx="174" ry="138" fill="#2f1d63" transform="rotate(93 1199 146)"/>
+<ellipse cx="124" cy="82" rx="86" ry="75" fill="#3b2f63" transform="rotate(50 124 82)"/>
+<ellipse cx="651" cy="74" rx="183" ry="125" fill="#5a32a3" transform="rotate(0 651 74)"/>
+<ellipse cx="941" cy="146" rx="81" ry="130" fill="#160a2e" transform="rotate(99 941 146)"/>
+<ellipse cx="368" cy="214" rx="105" ry="101" fill="#8957e5" transform="rotate(162 368 214)"/>
+<ellipse cx="640" cy="14" rx="161" ry="105" fill="#3b2f63" transform="rotate(21 640 14)"/>
+<ellipse cx="285" cy="57" rx="92" ry="49" fill="#21134a" transform="rotate(151 285 57)"/>
+<ellipse cx="913" cy="44" rx="181" ry="130" fill="#2f1d63" transform="rotate(39 913 44)"/>
+<ellipse cx="1083" cy="250" rx="93" ry="48" fill="#160a2e" transform="rotate(166 1083 250)"/>
+<ellipse cx="170" cy="239" rx="95" ry="101" fill="#8957e5" transform="rotate(49 170 239)"/>
+<ellipse cx="392" cy="-16" rx="124" ry="73" fill="#2f1d63" transform="rotate(128 392 -16)"/>
+<ellipse cx="452" cy="270" rx="143" ry="79" fill="#5a32a3" transform="rotate(107 452 270)"/>
+<ellipse cx="228" cy="1" rx="150" ry="104" fill="#6e40c9" transform="rotate(149 228 1)"/>
+<ellipse cx="1018" cy="185" rx="188" ry="62" fill="#5a32a3" transform="rotate(38 1018 185)"/>
+<ellipse cx="1032" cy="231" rx="64" ry="102" fill="#8957e5" transform="rotate(46 1032 231)"/>
+<ellipse cx="1206" cy="-28" rx="98" ry="68" fill="#21134a" transform="rotate(121 1206 -28)"/>
+<ellipse cx="1227" cy="31" rx="75" ry="87" fill="#6e40c9" transform="rotate(132 1227 31)"/>
+<ellipse cx="1046" cy="254" rx="183" ry="59" fill="#5a32a3" transform="rotate(14 1046 254)"/>
+<ellipse cx="468" cy="67" rx="130" ry="51" fill="#8957e5" transform="rotate(25 468 67)"/>
+<ellipse cx="999" cy="201" rx="67" ry="143" fill="#160a2e" transform="rotate(113 999 201)"/>
+<ellipse cx="626" cy="283" rx="189" ry="123" fill="#5a32a3" transform="rotate(51 626 283)"/>
+<ellipse cx="527" cy="201" rx="190" ry="114" fill="#8957e5" transform="rotate(122 527 201)"/>
+<ellipse cx="999" cy="96" rx="126" ry="117" fill="#21134a" transform="rotate(114 999 96)"/>
+<ellipse cx="240" cy="183" rx="91" ry="96" fill="#3b2f63" transform="rotate(80 240 183)"/>
+<ellipse cx="108" cy="93" rx="169" ry="55" fill="#21134a" transform="rotate(171 108 93)"/>
+</g>
+<rect width="1200" height="260" fill="url(#fade)"/>
+<text x="60" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="800" fill="#f3eefc" letter-spacing="1">OISIN AEONN</text>
+<text x="63" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#c9b8f0">AI/ML Cloud Engineer @ AWS  ·  Bedrock, SageMaker &amp; AgentCore</text>
+<text x="63" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#a78bd6">Melbourne, Australia  ·  Bedrock AgentCore SME</text>
+</svg>
